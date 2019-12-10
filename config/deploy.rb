@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 lock '3.6.0'
 
-set :application, 'blogAWS'
+set :application, 'blogAws'
 set :repo_url, 'git@github.com:KakeruYamamoto/blog_AWS.git'
 
 
